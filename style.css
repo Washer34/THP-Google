@@ -151,6 +151,11 @@ footer a {
   outline: none;  
 }
 
+footer a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 
 footer p {
   display: inline-block;
@@ -166,4 +171,5 @@ footer p {
   position: absolute;
   right: 0;
 }
+
 /* FIN DU FOOTER */
